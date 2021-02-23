@@ -3,12 +3,12 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Akanksha Choudhary',
+  subtitle: 'Software Development Engineer at Viacom18 Media Pvt. Ltd.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-73324242-2',
   useKatex: false,
   menu: [
     {
@@ -20,24 +20,24 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Talks',
+      path: '/pages/talks'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Akanksha Choudhary',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software Development Engineer at Viacom18 Media Pvt. Ltd.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'akanksha.ch29@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'ch_akanksha',
+      github: 'akankshach29',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'akankshachoudhary',
+      instagram: 'javascript_interviews',
       line: '',
       gitlab: '',
       weibo: '',

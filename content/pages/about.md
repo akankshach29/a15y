@@ -1,13 +1,20 @@
 ---
-title: "About me"
+title: "About My Career"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I am a full stack web developer. My tech stack has been MERN stack for past 3 years. Currently exploring  Redis and DynamoDB along with React, Node and Express. I am a JavaScript enthusiast and run a page on Instagram @javascript_interviews.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+**Viacom18 Media Pvt. Ltd.**
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+I currently work with the Voot Web team working on building the voting interface from scratch for shows like Big Boss that is used by 10M+ indian and international users. Also worked on the entire admin app for the same. Worked on CMS for form generation for various shows, auditions and contests. Provision for  polls, online and offline quizzes were other features I got to work on. Along with new features I am involved in setting up analytics and bug fixing for existing features. 
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+
+**Kidovators**
+
+I have worked on building a platform to facilitate 21st century skills learning for kids. I have worked on building features like feed, user profile view, hosting weekly challenges and course on 21st century skills. The entire SaaS platform is built on MERN stack.
+
+Also responsible for building the admin platform to facilitate other partner companies to host their course on our platform.
+
+Responsible for building the company enterprise website in ReactJS and also involved in the company operations and their hiring process.

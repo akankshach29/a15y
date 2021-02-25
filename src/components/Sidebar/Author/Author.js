@@ -30,7 +30,7 @@ const Author = ({ author, isIndex }: Props) => (
       </h1>
     ) : (
       <h2 className={styles['author__title']}>
-        <Link className={styles['author__title-link']} to="/">{author.name}</Link>
+        <Link className={styles['author__title-link']} to="/"><span style={{color: '#F7A046'}}>A</span>kanksha Choudhar<span style={{color: '#F7A046'}}>y</span></Link>
       </h2>
     )}
     <p className={styles['author__subtitle']}>{author.bio}</p>

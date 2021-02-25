@@ -20,7 +20,8 @@ const Layout = ({
 }: Props) => {
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage || author.photo;
-  const metaImageUrl = url + metaImage;
+  // const metaImageUrl = url + metaImage;
+  const metaImageUrl = '/photo.jpg'
 
   return (
     <div className={styles.layout}>

@@ -3,7 +3,7 @@ title: The GraphQL Buzz
 date: "2019-02-02T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "the-origins-of-social-stationery-lettering"
+slug: "the-graphql-buzz"
 category: "Web Development"
 tags:
   - "Query Language"

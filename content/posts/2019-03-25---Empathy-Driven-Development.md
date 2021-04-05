@@ -3,7 +3,7 @@ title: "Empathy Driven Development"
 date: "2019-03-25T22:12:03.284Z"
 template: "post"
 draft: false
-slug: "the-birth-of-movable-type"
+slug: "empathy-driven-development"
 category: "Accessibility"
 tags:
   - "Accessibility"
